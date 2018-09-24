@@ -1,0 +1,33 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -32 32 -32 62
+LINE Normal -32 -17 -32 16
+LINE Normal -32 -64 -32 -32
+LINE Normal 1 48 -31 48
+LINE Normal -1 -48 -32 -48
+LINE Normal -16 7 -31 0
+LINE Normal -16 -8 -16 7
+LINE Normal -31 0 -16 -8
+LINE Normal -16 0 0 0
+LINE Normal 32 48 1 48
+LINE Normal 32 -48 -1 -48
+LINE Normal 32 48 32 -47
+LINE Normal 41 -16 25 -16
+LINE Normal 25 0 31 -16
+LINE Normal 39 0 25 0
+LINE Normal 32 -16 39 0
+LINE Normal 8 48 8 0
+LINE Normal 32 -81 32 -48
+LINE Normal 32 48 32 80
+LINE Normal -48 -49 -49 48
+LINE Normal -80 48 -49 48
+LINE Normal 32 -142 32 -81
+LINE Normal 33 79 33 145
+LINE Normal -80 49 -144 49
+CIRCLE Normal 104 107 -109 -102
+PIN 32 -144 NONE 8
+PINATTR SpiceOrder 1
+PIN 32 144 NONE 8
+PINATTR SpiceOrder 2
+PIN -144 48 NONE 8
+PINATTR SpiceOrder 3
